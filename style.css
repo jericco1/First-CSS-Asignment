@@ -1,0 +1,32 @@
+h1{
+    background-color: orange;
+    color: white;
+    text-align: center;
+}
+
+.pike{
+    background-color: blue;
+    text-align:right;
+    font-style: italic;
+    font-family: 'Montserrat Alternates', sans-serif;
+    border: solid blue;
+    color: white;
+}
+
+.don{
+    background-color: black;
+    color:yellow;
+    text-align: left;
+    border: black;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 2em;
+}
+
+form{
+    background-color: lightblue;
+}
+
+input[type=submit] {
+    background-color:red;
+    color: white;
+}
