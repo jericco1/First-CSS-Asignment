@@ -22,8 +22,10 @@ h1{
     font-size: 2em;
 }
 
-form{
+.form{
     background-color: lightblue;
+    justify-content: center;
+    display: flex;
 }
 
 input[type=submit] {
